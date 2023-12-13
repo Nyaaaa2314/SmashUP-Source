@@ -1,0 +1,15 @@
+/Users/jadielrios/SmashUP Source/SmashUP/bin/Debug/net7.0/SmashUP
+/Users/jadielrios/SmashUP Source/SmashUP/bin/Debug/net7.0/SmashUP.deps.json
+/Users/jadielrios/SmashUP Source/SmashUP/bin/Debug/net7.0/SmashUP.runtimeconfig.json
+/Users/jadielrios/SmashUP Source/SmashUP/bin/Debug/net7.0/SmashUP.dll
+/Users/jadielrios/SmashUP Source/SmashUP/bin/Debug/net7.0/SmashUP.pdb
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/SmashUP.csproj.AssemblyReference.cache
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/SmashUP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/SmashUP.AssemblyInfoInputs.cache
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/SmashUP.AssemblyInfo.cs
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/SmashUP.csproj.CoreCompileInputs.cache
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/SmashUP.dll
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/refint/SmashUP.dll
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/SmashUP.pdb
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/SmashUP.genruntimeconfig.cache
+/Users/jadielrios/SmashUP Source/SmashUP/obj/Debug/net7.0/ref/SmashUP.dll
